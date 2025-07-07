@@ -47,16 +47,16 @@ Cada solução neste projeto está contida em sua própria classe `Solution`, pr
 ## Screenshots - Submissões Aceitas
 
 ### 1. Maximum Subarray
-![Submissão aceita para Maximum Subarray]()
+![Submissão aceita para Maximum Subarray](./img/q1.png)
 
 ### 2. Sort an Array
-![Submissão aceita para Sort an Array]()
+![Submissão aceita para Sort an Array](./img/q2.png)
 
-### 3. Median of Two Sorted Arrays
-![Submissão aceita para Median of Two Sorted Arrays]()
+### 3. Merge k Sorted Lists
+![Submissão aceita para Merge k Sorted Lists](./img/q3.png)
 
-### 4. Merge k Sorted Lists
-![Submissão aceita para Merge k Sorted Lists]()
+### 4. Median of Two Sorted Arrays
+![Submissão aceita para Median of Two Sorted Arrays](./img/q4.png)
 
 
 ## Instalação
